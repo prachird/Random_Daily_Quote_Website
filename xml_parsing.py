@@ -4,7 +4,7 @@ import random
 def parsing():
     doc = parse('/home/dPrachi/mysite/input.xml')
 
-    number = random.randint(0,11)
+    number = random.randint(0,27)
     #print(number)
 
 
